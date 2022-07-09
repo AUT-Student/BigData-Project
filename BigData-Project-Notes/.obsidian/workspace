@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "2615141fd31a2fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9194d350034512f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Article/Abstract.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "75a5c6d961ce121f",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Article/Final_Project_Paper.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a5c75724169363a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd824cb23b0ddb65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1723ac0eab82ea82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f7a1a744b047304",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e53aa0b36dc6822",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b57a1edf52f9c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac561b58026e7b15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Article/Abstract.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9194d350034512f9",
+  "lastOpenFiles": [
+    "Article/Abstract.md",
+    "Article/Final_Project_Paper.pdf"
+  ]
+}
