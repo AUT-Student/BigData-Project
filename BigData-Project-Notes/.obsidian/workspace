@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Arbitrary Order Model.md",
+            "file": "Article/Expriments.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Arbitrary Order Model.md",
+                "file": "Article/Expriments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,9 @@
   },
   "active": "9194d350034512f9",
   "lastOpenFiles": [
-    "Article/Arbitrary Order Model.md",
+    "Article/Expriments.md",
     "Article/Adjacency List Model.md",
+    "Article/Arbitrary Order Model.md",
     "Article/Introduction.md",
     "Article/Abstract.md",
     "Article/Final_Project_Paper.pdf"
