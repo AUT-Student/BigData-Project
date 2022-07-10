@@ -22,8 +22,10 @@ https://snap.stanford.edu/data/Oregon-1.html
 # مجموعه‌داده CAIDA
 در مقاله اصلی اشاره شده است که در این دو سال 98 گراف وجود دارد (52 گراف برای سال 2006 و 46 گراف برای سال 2007)
 
-https://snap.stanford.edu/data/as-Caida.html
+**لینک صفحه داده:** https://snap.stanford.edu/data/as-Caida.html
 ![[Pasted image 20220710184501.png]]
 ![[Pasted image 20220710184622.png]]
 
-در قسمت مجموعه‌داده 122 گراف از سال 2004 تا 2007 وجود دارد که احتمالا شامل 98 گراف مدنظر ما بشود.
+در قسمت مجموعه‌داده 122 گراف از سال 2004 تا 2007 وجود دارد که دقیقا شامل 98 گراف در دو سال 2006 و 2007 می‌شد.
+
+**لینک دانلود فایل:** https://snap.stanford.edu/data/as-caida.tar.gz
