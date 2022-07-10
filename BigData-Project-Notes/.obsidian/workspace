@@ -6,11 +6,11 @@
       {
         "id": "9194d350034512f9",
         "type": "leaf",
-        "dimension": 50.17006802721088,
+        "dimension": 44.195046439628484,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Introduction.md",
+            "file": "Article/Adjacency List Model.md",
             "mode": "source",
             "source": false
           }
@@ -19,7 +19,7 @@
       {
         "id": "75a5c6d961ce121f",
         "type": "leaf",
-        "dimension": 49.82993197278912,
+        "dimension": 55.804953560371516,
         "state": {
           "type": "pdf",
           "state": {
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 185
   },
   "right": {
     "id": "8e53aa0b36dc6822",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Introduction.md",
+                "file": "Article/Adjacency List Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "9194d350034512f9",
   "lastOpenFiles": [
+    "Article/Adjacency List Model.md",
     "Article/Introduction.md",
     "Article/Abstract.md",
     "Article/Final_Project_Paper.pdf"
