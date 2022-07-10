@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article/Adjacency List Model.md",
+            "file": "Article/Arbitrary Order Model.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 185
+    "width": 224
   },
   "right": {
     "id": "8e53aa0b36dc6822",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/Adjacency List Model.md",
+                "file": "Article/Arbitrary Order Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "9194d350034512f9",
   "lastOpenFiles": [
+    "Article/Arbitrary Order Model.md",
     "Article/Adjacency List Model.md",
     "Article/Introduction.md",
     "Article/Abstract.md",
