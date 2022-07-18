@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9194d350034512f9",
+        "id": "19c17832bc808c8e",
         "type": "leaf",
-        "dimension": 44.195046439628484,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dataset.md",
+            "file": "Article/Adjacency List Model.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "75a5c6d961ce121f",
+        "id": "d601afa6edd84c8f",
         "type": "leaf",
-        "dimension": 55.804953560371516,
         "state": {
           "type": "pdf",
           "state": {
@@ -65,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224
+    "width": 176.5
   },
   "right": {
     "id": "8e53aa0b36dc6822",
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataset.md",
+                "file": "Article/Adjacency List Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,14 +97,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9194d350034512f9",
+  "active": "19c17832bc808c8e",
   "lastOpenFiles": [
-    "Dataset.md",
-    "Article/Expriments.md",
+    "Article/Arbitrary Order Model.md",
     "Article/Adjacency List Model.md",
+    "Article/Results.md",
+    "Article/Final_Project_Paper.pdf",
+    "Article/Expriments.md",
+    "Dataset.md",
     "Article/Introduction.md",
     "Article/Abstract.md",
-    "Article/Arbitrary Order Model.md",
-    "Article/Final_Project_Paper.pdf"
+    "Implementation Chalanges.md"
   ]
 }
