@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "19c17832bc808c8e",
+        "id": "f1f24743b3298dcd",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,16 +12,6 @@
             "file": "Article/Adjacency List Model.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "d601afa6edd84c8f",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Article/Final_Project_Paper.pdf"
           }
         }
       }
@@ -97,16 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19c17832bc808c8e",
+  "active": "f1f24743b3298dcd",
   "lastOpenFiles": [
-    "Article/Arbitrary Order Model.md",
+    "Article/Introduction.md",
     "Article/Adjacency List Model.md",
     "Article/Results.md",
+    "Article/Arbitrary Order Model.md",
+    "Implementation Chalanges.md",
     "Article/Final_Project_Paper.pdf",
+    "Article/Value Prediction Oracle.md",
     "Article/Expriments.md",
     "Dataset.md",
-    "Article/Introduction.md",
-    "Article/Abstract.md",
-    "Implementation Chalanges.md"
+    "Article/Abstract.md"
   ]
 }
