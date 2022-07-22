@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Implementation Chalanges.md",
+            "file": "Article/Results.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Implementation Chalanges.md",
+                "file": "Article/Results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "f1f24743b3298dcd",
   "lastOpenFiles": [
+    "Implementation Chalanges.md",
     "Article/Results.md",
     "Article/Adjacency List Model.md",
     "Article/Expriments.md",
     "Article/Introduction.md",
     "Article/Arbitrary Order Model.md",
-    "Implementation Chalanges.md",
     "Article/Final_Project_Paper.pdf",
     "Article/Value Prediction Oracle.md",
     "Dataset.md",
